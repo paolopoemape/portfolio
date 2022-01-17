@@ -1,0 +1,20 @@
+
+em, strong {
+  background-color: #B2D6FF;
+  display: inline;             /* This is the default for em and strong */
+}
+
+.subtitle{
+  font-style: italic;
+}
+
+h2 {
+  background-color: #DDE0E3;    /* Light gray */
+  padding: 10px 0 20px 10px;  /* Top  Right  Bottom  Left */
+  margin-bottom: 10px;
+  border-bottom: 1px solid #5D6063;
+}
+
+#para3{
+   background-color: #5995DA;
+}
